@@ -1,0 +1,3 @@
+[submodule "nickname/pcr-nickname"]
+	path = nickname/pcr-nickname
+	url = git@github.com:pcrbot/pcr-nickname.git
